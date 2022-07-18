@@ -1,8 +1,19 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
-coverY: 0
+description: 开发进程
 ---
 
 # 🔨 Develop Progress
 
+### 开发目标
+
+* [x] 日常杂项系列
+* [ ] 作物系列
+* [ ] 耕作系统
+* [ ] 节气系统
+* [ ] 矿石与金属系列
+* [ ] 能量系统
+* [ ] 工业系统
+
+### 当前正在完成什么？
+
+请前往前往查看 [项目看板](https://github.com/orgs/KrysztalTechLab/projects/1) 获取当前最新开发情况

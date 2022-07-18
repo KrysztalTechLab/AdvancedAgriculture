@@ -1,10 +1,19 @@
 ---
 description: 这个模组是做什么的？
-cover: >-
-  https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
-coverY: 0
 ---
 
 # 🧐 Why this mod?
 
-##
+### 这个模组包含了如下具体内容
+
+* 更多的作物
+* 新的作物生产方式
+* 新的工业系统
+* 新的能量单位
+* 日常产物优化
+
+### 他能做什么？
+
+丰富填充你的 Minecraft 生产体验，并且加入了部分符合日常生活认知的内容。
+
+模仿接近现实的农业耕作周期。
